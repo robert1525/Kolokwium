@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Stacja\Stacje\Stacje\bin\Debug\Stacje.exe.config
+C:\Users\local\Desktop\Stacja\Stacje\Stacje\bin\Debug\Stacje.exe
+C:\Users\local\Desktop\Stacja\Stacje\Stacje\bin\Debug\Stacje.pdb
+C:\Users\local\Desktop\Stacja\Stacje\Stacje\obj\Debug\Stacje.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Stacja\Stacje\Stacje\obj\Debug\Stacje.exe
+C:\Users\local\Desktop\Stacja\Stacje\Stacje\obj\Debug\Stacje.pdb
